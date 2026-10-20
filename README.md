@@ -32,6 +32,24 @@ I exported the measurements to `data/fiji_results.csv` and saved an annotated im
 I organized the project into `data/`, `scripts/`, `results/`, and `figures/`. I saved the Fiji measurements in `data/fiji_results.csv` and prepared `scripts/analyze_cells.R` for analysis in R through Posit Cloud
 I configured the script with the selected phenotype (`Large spread`) and image field ID (`13362`). I then ran the analysis to generate summary statistics and visualization plots, organizing the outputs in the appropriate project folder.
 
+## 5. Results and Visualization
+
+### 5.1. F-Actin Intensity
+
+![F-actin Intensity Plot](figures/actin_intensity.png)
+
+**Figure 1. Mean F-actin fluorescence intensity of the selected cells.**
+
+This plot presents the mean fluorescence intensity measured within each selected cell. The values describe the relative F-actin staining intensity in the analyzed regions. However, differences in fluorescence intensity should be interpreted cautiously because they may also be influenced by staining and imaging conditions.
+
+### 5.2. Cell Area and Circularity
+
+![Cell Area vs. Circularity Plot](figures/area_vs_circularity.png)
+
+**Figure 2. Relationship between cell area and circularity.**
+
+This plot compares the measured area and circularity of the selected cells. It helps visualize whether larger cells tend to have different shapes or degrees of roundness within the sampled field. Any apparent relationship should be interpreted cautiously because only five cells from one image field were measured.
+
 ## My answers to the questions
 ### Q1. What phenotype did you choose, and what image field ID did you registeer?
 I selected the **Large spread** phenotype and registered image field **13362**, using `13362-actin.DIB` as the primary image.
