@@ -8,7 +8,7 @@
 
 I reviewed the 14 morphological phenotype categories in the BBBC018 dataset and selected the **Large spread** phenotype. I chose image field **13362** after comparing its cellular morphology with the dataset's reference images. I registered the field in the class spreadsheet and verified that it had not been selected by another student
 
-**Selected files:
+**Selected files:**
 - `13362-actin.DIB` — F-actin channel
 - `13362-DNA.DIB` — DNA channel
 
