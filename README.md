@@ -1,5 +1,8 @@
 ### BBBC018 · Cytoskeleton and Cell Morphology Lab
-Student ID: BBBC018_largespread_13362Course Context: Karp, Chapter 9 — The Cytoskeleton and Cell MotilityTools: Fiji/ImageJ, R, Posit Cloud, GitHubDataset: Broad Bioimage Benchmark Collection (BBBC018) — HT29 Human Colon Cancer Cells
+Student ID: BBBC018_largespread_13362
+Course Context: Karp, Chapter 9 — The Cytoskeleton and Cell Motility
+Tools: Fiji/ImageJ, R, Posit Cloud, GitHub
+Dataset: Broad Bioimage Benchmark Collection (BBBC018) — HT29 Human Colon Cancer Cells
 ### 1. Image Selection and Registration
 I reviewed the 14 morphological phenotype categories in the BBBC018 dataset and selected the Large spread phenotype for analysis. After downloading and extracting the image archive, I opened the corresponding F-actin and DNA channels in Fiji.
 I selected image field 13362 (13362-actin.DIB and 13362-DNA.DIB) because its cellular morphology appeared consistent with the Large spread reference phenotype. I then registered the image field in the class spreadsheet and verified that it had not been selected by another student.
