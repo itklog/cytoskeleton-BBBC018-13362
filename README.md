@@ -35,12 +35,13 @@ I configured the script with the selected phenotype (`Large spread`) and image f
 ## 5. Results and Visualization
 
 ### 5.1. F-Actin Intensity
+**Interpretation Note and Limitations:** The following plots present the measurements obtained from five selected cells in image field 13362. They are intended to describe the measured characteristics of these cells rather than establish general conclusions about the Large spread phenotype. This analysis is also limited to a single image field and a small sample of cells. In addition, fluorescence intensity may be affected by staining and image acquisition conditions, while cell boundary selection may introduce measurement variability. 
 
 ![F-actin Intensity Plot](figures/actin_intensity.png)
 
 **Figure 1. Mean F-actin fluorescence intensity of the selected cells.**
 
-This plot presents the mean fluorescence intensity measured within each selected cell. The values describe the relative F-actin staining intensity in the analyzed regions. However, differences in fluorescence intensity should be interpreted cautiously because they may also be influenced by staining and imaging conditions.
+This plot presents the mean fluorescence intensity measured within each selected cell. The values describe the relative F-actin staining intensity in the analyzed regions. 
 
 ### 5.2. Cell Area and Circularity
 
@@ -48,7 +49,7 @@ This plot presents the mean fluorescence intensity measured within each selected
 
 **Figure 2. Relationship between cell area and circularity.**
 
-This plot compares the measured area and circularity of the selected cells. It helps visualize whether larger cells tend to have different shapes or degrees of roundness within the sampled field. Any apparent relationship should be interpreted cautiously because only five cells from one image field were measured.
+This plot shows the measured area and circularity of the five selected cells, allowing their size and shape characteristics to be compared visually.
 
 ## My answers to the questions
 ### Q1. What phenotype did you choose, and what image field ID did you registeer?
