@@ -1,7 +1,7 @@
 # BBBC018 · Cytoskeleton and Cell Morphology Lab
 - **Student ID:** `BBBC018_largespread_13362
-- **Course Context:** Karp, Chapter 9 — The Cytoskeleton and Cell Motilit
-- **Tools Used:** Fiji/ImageJ, R, Posit Cloud, GitHu
+- **Course Context:** Karp, Chapter 9 — The Cytoskeleton and Cell Motility
+- **Tools Used:** Fiji/ImageJ, R, Posit Cloud, GitHub
 - **Dataset:** Broad Bioimage Benchmark Collection (BBBC018) — HT29 Human Colon Cancer Cell
 
 ## 1. Image Selection and Registrati
