@@ -45,7 +45,7 @@ This plot presents the mean fluorescence intensity measured within each selected
 
 ### 5.2. Cell Area and Circularity
 
-![Cell Area vs. Circularity Plot](figures/area_vs_circularity.png)
+![Cell Area vs. Circularity Plot](figures/Area_vs_circularity.png)
 
 **Figure 2. Relationship between cell area and circularity.**
 
