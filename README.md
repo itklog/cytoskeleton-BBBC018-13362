@@ -70,3 +70,5 @@ Actin filaments help maintain cell shape by providing structural support beneath
 
 A single fixed fluorescence image captures the cell's structure at one point in time and does not show changes in its position over time. Measuring cell movement requires time-lapse imaging or sequential observations to track displacement over a known time interval and calculate movement speed.
 
+### Data Credit & License Attribution
+Used image set BBBC018v1 from the Broad Bioimage Benchmark Collection (Ljosa et al., Nature Methods, 2012).” The images are licensed CC BY-NC-SA 3.0; retain attribution when sharing image-derived screenshots.
