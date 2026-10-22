@@ -51,12 +51,22 @@ This plot presents the mean fluorescence intensity measured within each selected
 
 This plot shows the measured area and circularity of the five selected cells, allowing their size and shape characteristics to be compared visually.
 
-## My answers to the questions
-### Q1. What phenotype did you choose, and what image field ID did you registeer?
-I selected the **Large spread** phenotype and registered image field **13362**, using `13362-actin.DIB` as the primary image.
-### Q2. Why did you choose this field, and how does the actin staining compare with the reference phenotype?
-I chose field 13362 because the cells appeared flattened, with broadly extended F-actin structures consistent with the Large spread reference phenotype.
-### Q3. Why is it important not to compare raw mean fluorescence intensity directly across different image field?
-Raw fluorescence intensity can vary with exposure settings, detector gain, illumination, and staining conditions. Therefore, intensity differences may reflect technical variation rather than actual differences in protein abundance.
-### Q4. What do the morphological measurements tell you about the selected cell?
-Area, circularity, and aspect ratio describe cell size and shape, while mean gray value measures average fluorescence intensity. Together, these parameters help characterize the morphology and F-actin staining of the selected cell.
+
+## 6. Explanation of Results
+
+### 1. Which specific phenotype did you choose, and what visible features support that choice?
+
+I selected the **Large spread** phenotype because the cells displayed flattened, broadly extended cytoplasmic regions with prominent F-actin structures. These visible features were consistent with the reference images for this phenotype.
+
+### 2. Were your five cells mostly round or elongated? Refer to your circularity and aspect-ratio results.
+
+Since I have higher circularity values my five chosen cells are mostly round.
+
+### 3. What role does actin play in maintaining cell shape and in cell movement (Karp Chapter 9)?
+
+Actin filaments help maintain cell shape by providing structural support beneath the plasma membrane and organizing the cell cortex. Actin polymerization and interactions with myosin also contribute to cell movement by generating forces that support membrane protrusion and cellular contraction.
+
+### 4. Why can a single fixed fluorescence image NOT show how fast a cell moves?
+
+A single fixed fluorescence image captures the cell's structure at one point in time and does not show changes in its position over time. Measuring cell movement requires time-lapse imaging or sequential observations to track displacement over a known time interval and calculate movement speed.
+
